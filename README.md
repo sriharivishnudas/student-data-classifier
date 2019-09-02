@@ -14,6 +14,9 @@ The data in the Final Dataset are the numerical iterpretation of the data that h
 Requirements =>
 
 Flask 1.0.2
+
 Flask-Bootstrap 3.3.7.1
+
 Scikit-learn 0.19.1
+
 Pandas 0.23.4
