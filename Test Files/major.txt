@@ -1,0 +1,9 @@
+Computer science, computer engineering, or software engineering
+Another engineering discipline (ex. civil, electrical, mechanical)
+A business discipline (ex. accounting, finance, marketing)
+A humanities discipline (ex. literature, history, philosophy)
+A natural science (ex. biology, chemistry, physics)
+A social science (ex. anthropology, psychology, political science)
+Fine arts or performing arts (ex. graphic design, music, studio art)
+Information systems, information technology, or system administration
+Mathematics or statistics
